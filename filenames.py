@@ -1,0 +1,14 @@
+basic.py
+formulas.py
+infer1.py
+infer2.py
+inferchi_ind.py
+inferchi.py
+inferf.py
+inferz.py
+plots.py
+r_api.py
+script.py
+setA.py
+syntax.py
+testgpt.py
