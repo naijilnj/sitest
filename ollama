@@ -1,5 +1,9 @@
 curl -fsSL https://ollama.com/install.sh | sh
 
+winget install ollama.ollama
+
+system("winget install ollama.ollama")
+
 ollama run llama3
 ollama run mistral
 ollama run gemma
